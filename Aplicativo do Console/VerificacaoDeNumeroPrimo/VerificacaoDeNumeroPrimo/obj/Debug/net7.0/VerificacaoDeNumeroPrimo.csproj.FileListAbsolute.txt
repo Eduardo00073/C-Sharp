@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\bin\Debug\net7.0\VerificacaoDeNumeroPrimo.exe
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\bin\Debug\net7.0\VerificacaoDeNumeroPrimo.deps.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\bin\Debug\net7.0\VerificacaoDeNumeroPrimo.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\bin\Debug\net7.0\VerificacaoDeNumeroPrimo.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\bin\Debug\net7.0\VerificacaoDeNumeroPrimo.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\obj\Debug\net7.0\VerificacaoDeNumeroPrimo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\obj\Debug\net7.0\VerificacaoDeNumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\obj\Debug\net7.0\VerificacaoDeNumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\obj\Debug\net7.0\VerificacaoDeNumeroPrimo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\obj\Debug\net7.0\VerificacaoDeNumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\obj\Debug\net7.0\VerificacaoDeNumeroPrimo.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\obj\Debug\net7.0\refint\VerificacaoDeNumeroPrimo.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\obj\Debug\net7.0\VerificacaoDeNumeroPrimo.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\obj\Debug\net7.0\VerificacaoDeNumeroPrimo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\VerificacaoDeNumeroPrimo\VerificacaoDeNumeroPrimo\obj\Debug\net7.0\ref\VerificacaoDeNumeroPrimo.dll
