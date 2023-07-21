@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\net7.0\SomaDeDoisNumeros.exe
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\net7.0\SomaDeDoisNumeros.deps.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\net7.0\SomaDeDoisNumeros.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\net7.0\SomaDeDoisNumeros.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\bin\Debug\net7.0\SomaDeDoisNumeros.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\net7.0\SomaDeDoisNumeros.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\net7.0\SomaDeDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\net7.0\SomaDeDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\net7.0\SomaDeDoisNumeros.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\net7.0\SomaDeDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\net7.0\SomaDeDoisNumeros.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\net7.0\refint\SomaDeDoisNumeros.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\net7.0\SomaDeDoisNumeros.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\net7.0\SomaDeDoisNumeros.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SomaDeDoisNumeros\SomaDeDoisNumeros\obj\Debug\net7.0\ref\SomaDeDoisNumeros.dll
