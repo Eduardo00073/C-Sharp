@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\bin\Debug\net7.0\MediaDeValores.exe
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\bin\Debug\net7.0\MediaDeValores.deps.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\bin\Debug\net7.0\MediaDeValores.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\bin\Debug\net7.0\MediaDeValores.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\bin\Debug\net7.0\MediaDeValores.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\obj\Debug\net7.0\MediaDeValores.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\obj\Debug\net7.0\MediaDeValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\obj\Debug\net7.0\MediaDeValores.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\obj\Debug\net7.0\MediaDeValores.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\obj\Debug\net7.0\MediaDeValores.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\obj\Debug\net7.0\MediaDeValores.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\obj\Debug\net7.0\refint\MediaDeValores.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\obj\Debug\net7.0\MediaDeValores.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\obj\Debug\net7.0\MediaDeValores.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\MediaDeValores\MediaDeValores\obj\Debug\net7.0\ref\MediaDeValores.dll
