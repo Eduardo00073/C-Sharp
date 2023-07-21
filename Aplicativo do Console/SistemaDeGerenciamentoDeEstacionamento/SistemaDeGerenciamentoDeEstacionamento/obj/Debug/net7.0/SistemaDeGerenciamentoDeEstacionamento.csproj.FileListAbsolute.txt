@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\bin\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.exe
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\bin\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.deps.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\bin\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\bin\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\bin\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\obj\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\obj\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\obj\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\obj\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\obj\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\obj\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\obj\Debug\net7.0\refint\SistemaDeGerenciamentoDeEstacionamento.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\obj\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\obj\Debug\net7.0\SistemaDeGerenciamentoDeEstacionamento.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\SistemaDeGerenciamentoDeEstacionamento\SistemaDeGerenciamentoDeEstacionamento\obj\Debug\net7.0\ref\SistemaDeGerenciamentoDeEstacionamento.dll
