@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\bin\Debug\net7.0\IdentificandoNumerosMultiplos.exe
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\bin\Debug\net7.0\IdentificandoNumerosMultiplos.deps.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\bin\Debug\net7.0\IdentificandoNumerosMultiplos.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\bin\Debug\net7.0\IdentificandoNumerosMultiplos.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\bin\Debug\net7.0\IdentificandoNumerosMultiplos.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\obj\Debug\net7.0\IdentificandoNumerosMultiplos.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\obj\Debug\net7.0\IdentificandoNumerosMultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\obj\Debug\net7.0\IdentificandoNumerosMultiplos.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\obj\Debug\net7.0\IdentificandoNumerosMultiplos.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\obj\Debug\net7.0\IdentificandoNumerosMultiplos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\obj\Debug\net7.0\IdentificandoNumerosMultiplos.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\obj\Debug\net7.0\refint\IdentificandoNumerosMultiplos.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\obj\Debug\net7.0\IdentificandoNumerosMultiplos.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\obj\Debug\net7.0\IdentificandoNumerosMultiplos.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\IdentificandoNumerosMultiplos\IdentificandoNumerosMultiplos\obj\Debug\net7.0\ref\IdentificandoNumerosMultiplos.dll
