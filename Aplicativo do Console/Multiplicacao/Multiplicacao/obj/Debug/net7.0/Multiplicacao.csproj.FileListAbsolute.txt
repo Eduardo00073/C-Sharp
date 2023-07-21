@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\bin\Debug\net7.0\Multiplicacao.exe
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\bin\Debug\net7.0\Multiplicacao.deps.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\bin\Debug\net7.0\Multiplicacao.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\bin\Debug\net7.0\Multiplicacao.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\bin\Debug\net7.0\Multiplicacao.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\obj\Debug\net7.0\Multiplicacao.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\obj\Debug\net7.0\Multiplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\obj\Debug\net7.0\Multiplicacao.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\obj\Debug\net7.0\Multiplicacao.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\obj\Debug\net7.0\Multiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\obj\Debug\net7.0\Multiplicacao.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\obj\Debug\net7.0\refint\Multiplicacao.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\obj\Debug\net7.0\Multiplicacao.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\obj\Debug\net7.0\Multiplicacao.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\Multiplicacao\Multiplicacao\obj\Debug\net7.0\ref\Multiplicacao.dll
