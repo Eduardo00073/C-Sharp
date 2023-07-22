@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\bin\Debug\net7.0\PiSphereVolume.exe
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\bin\Debug\net7.0\PiSphereVolume.deps.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\bin\Debug\net7.0\PiSphereVolume.runtimeconfig.json
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\bin\Debug\net7.0\PiSphereVolume.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\bin\Debug\net7.0\PiSphereVolume.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\obj\Debug\net7.0\PiSphereVolume.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\obj\Debug\net7.0\PiSphereVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\obj\Debug\net7.0\PiSphereVolume.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\obj\Debug\net7.0\PiSphereVolume.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\obj\Debug\net7.0\PiSphereVolume.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\obj\Debug\net7.0\PiSphereVolume.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\obj\Debug\net7.0\refint\PiSphereVolume.dll
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\obj\Debug\net7.0\PiSphereVolume.pdb
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\obj\Debug\net7.0\PiSphereVolume.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GitHub\C-Sharp\Aplicativo do Console\PiSphereVolume\PiSphereVolume\obj\Debug\net7.0\ref\PiSphereVolume.dll
