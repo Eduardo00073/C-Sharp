@@ -1,0 +1,54 @@
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.exe.config
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.exe
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.pdb
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csprojResolveAssemblyReference.cache
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.FRMAcesso.resources
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.Properties.Resources.resources
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csproj.GenerateResource.Cache
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.exe
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.pdb
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.exe.config
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.exe
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.pdb
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.exe
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.pdb
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csprojResolveAssemblyReference.cache
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.FRMAcesso.resources
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.Properties.Resources.resources
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csproj.GenerateResource.Cache
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.FRMPagar.resources
+C:\Users\eduar\Desktop\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.exe.config
+C:\Users\eduar\Desktop\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.exe
+C:\Users\eduar\Desktop\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.pdb
+C:\Users\eduar\Desktop\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.exe
+C:\Users\eduar\Desktop\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.pdb
+C:\Users\eduar\Desktop\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Desktop\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.FRMAcesso.resources
+C:\Users\eduar\Desktop\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.FRMPagar.resources
+C:\Users\eduar\Desktop\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.Properties.Resources.resources
+C:\Users\eduar\Desktop\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csproj.GenerateResource.Cache
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.Netflix.resources
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\iMacros.TabbedBrowser.dll
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\iMacros.Core.dll
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Interop.SHDocVw.dll
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\iMacros.IO.Csv.dll
+C:\Users\eduar\MEGA\Projetos\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\iMacros.Component.xml
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.exe.config
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.exe
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Netflix Delta Customer.pdb
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\iMacros.TabbedBrowser.dll
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\iMacros.Core.dll
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\iMacros.IO.Csv.dll
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\bin\Debug\iMacros.Component.xml
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.FRMAcesso.resources
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.FRMPagar.resources
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.Netflix.resources
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix_Delta_Customer.Properties.Resources.resources
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.csproj.CopyComplete
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.exe
+C:\Users\Admin\Desktop\Netflix Delta\Netflix Delta Customer\Netflix Delta Customer\Netflix Delta Customer\obj\Debug\Netflix Delta Customer.pdb

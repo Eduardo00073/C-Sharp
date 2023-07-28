@@ -1,0 +1,596 @@
+<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>iMacros.Component</name>
+  </assembly>
+  <members>
+    <member name="T:iMacros.Component.EventHelpers.NamespaceDoc">
+      <summary>
+            The <see cref="N:iMacros.Component.EventHelpers" /> namespace contains auxiliary classes and methods to provide data and
+            handle the <see cref="T:iMacros.Component.iMacrosControl" /> events.
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.BrowserResizeEventArgs">
+      <summary>
+            Provides data for the <see cref="E:iMacros.Component.iMacrosControl.BrowserResize" /> event
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.BrowserResizeEventArgs.Size">
+      <summary>
+            Gets the size to which the control should be set.
+            </summary>
+      <value>The size.</value>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.MasterPasswordEventArgs">
+      <summary>
+            Provides data for the <see cref="E:iMacros.Component.iMacrosControl.MasterPasswordRequested" /> event.
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.MasterPasswordEventArgs.MasterPassword">
+      <summary>
+            Sets the master password.
+            </summary>
+      <value>The master password.</value>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.BrowserTopMostEventArgs">
+      <summary>
+            Provides data for the <see cref="E:iMacros.Component.iMacrosControl.TopMostRequired" /> event
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.BrowserTopMostEventArgs.TopMost">
+      <summary>
+            Gets or sets the value to which the form containing the control should set its <see langword="TopMost" /> property.
+            </summary>
+      <value>
+        <c>true</c> if the form containing the control should be set <c>TopMost = true</c>; otherwise, <c>false</c>.</value>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.FileDownloadEventArgs">
+      <summary>
+            Provides data for the <see cref="E:iMacros.Component.iMacrosControl.FileDownload" /> event
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.FileDownloadEventArgs.DownloadSize">
+      <summary>
+            Gets the total size in bytes of all the current files being downloaded.
+            </summary>
+      <value>The number of bytes to be downloaded.</value>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.FileDownloadEventArgs.DownloadedBytes">
+      <summary>
+            Gets the total amount of bytes downloaded so far. This value is reset after the Status
+            reaches <see cref="F:iMacros.Component.DownloadStatus.Completed" />.
+            </summary>
+      <value>The total  bytes downloaded so far.</value>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.FileDownloadEventArgs.Status">
+      <summary>
+            Gets the file download status.
+            </summary>
+      <value>One of <see cref="T:iMacros.Component.DownloadStatus" /> status.</value>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.PromptEventArgs">
+      <summary>
+            Provides data for the <see cref="E:iMacros.Component.iMacrosControl.Prompt" /> event.
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.PromptEventArgs.Message">
+      <summary>
+            Gets the message to be shown to the user.
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.PromptEventArgs.DefaultResponse">
+      <summary>
+            Gets the default response in case a user input is required.
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.PromptEventArgs.Value">
+      <summary>
+            The user response to return to the PROMPT command
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.PromptEventArgs.NeedsInput">
+      <summary>
+            Gets whether this event requires user input or it serves only as a message to be shown.
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.EventHelpers.PromptEventArgs.Handled">
+      <summary>
+            Set this property to true after the event has been handled and a user input (if <see cref="P:iMacros.Component.EventHelpers.PromptEventArgs.NeedsInput" /> is true) has been 
+            provided.
+            <remarks>Handled is always true when <see cref="P:iMacros.Component.EventHelpers.PromptEventArgs.NeedsInput" /> is false.</remarks></summary>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.MacroErrorOccurredEventHandler">
+      <summary>
+            Represents the method that will handle the <see cref="E:iMacros.Component.iMacrosControl.MacroErrorOccurred" /> event of 
+            a <see cref="T:iMacros.Component.iMacrosControl" /> object.
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.MasterPasswordRequestedEventHandler">
+      <summary>
+            Represents the method that will handle the <see cref="E:iMacros.Component.iMacrosControl.MasterPasswordRequested" /> event of 
+            a <see cref="T:iMacros.Component.iMacrosControl" /> object.
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.BrowserStatusUpdatedEventHandler">
+      <summary>
+            Represents the method that will handle the <see cref="E:iMacros.Component.iMacrosControl.BrowserStatusUpdated" /> event of 
+            a <see cref="T:iMacros.Component.iMacrosControl" /> object.
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.PlayerStatusUpdatedEventHandler">
+      <summary>
+            Represents the method that will handle the <see cref="E:iMacros.Component.iMacrosControl.PlayerStatusUpdated" /> event of 
+            a <see cref="T:iMacros.Component.iMacrosControl" /> object.
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.BrowserResizeEventHandler">
+      <summary>
+            Represents the method that will handle the <see cref="E:iMacros.Component.iMacrosControl.BrowserResize" /> event of 
+            a <see cref="T:iMacros.Component.iMacrosControl" /> object.
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.PlayerModeChangedEventHandler">
+      <summary>
+            Represents the method that will handle the <see cref="E:iMacros.Component.iMacrosControl.PlayerModeChanged" /> event of 
+            a <see cref="T:iMacros.Component.iMacrosControl" /> object.
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.TopMostRequiredEventHandler">
+      <summary>
+            Represents the method that will handle the <see cref="E:iMacros.Component.iMacrosControl.TopMostRequired" /> event of 
+            a <see cref="T:iMacros.Component.iMacrosControl" /> object.
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.EventHelpers.FileDownloadEventHandler">
+      <summary>
+            Represents the method that will handle the <see cref="E:iMacros.Component.iMacrosControl.FileDownload" /> event of
+            a <see cref="T:iMacros.Component.iMacrosControl" /> object.
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.iMacrosControl">
+      <summary>
+            A control with a tabbed browser and iMacros
+            player features. To get an instance of this class use the static method 
+            <see cref="M:iMacros.Component.iMacrosControl.Create(System.String)" />.
+            </summary>
+      <remarks>Only one iMacrosControl instance can exist at a time in a single application. For performance reasons, some of iMacrosControl classes
+            and properties were made static. Two or more iMacrosControl instances will share those static objects. However, if you dispose of iMacrosControl, 
+            these static fields are reset, and you can create a new iMacrosControl instance, which will not be influenced by the disposed one.
+            </remarks>
+      <example>
+            The example below assumes a Form with a <see cref="T:System.Windows.Forms.Panel" /> where to add the iMacros control
+            <code>
+            using System;
+            using System.Windows.Forms;
+            using iMacros.Component;
+            
+            public partial class MainForm : Form
+            {
+                private iMacrosControl iim;
+                
+                public MainForm()
+                {
+                    InitializeComponent();
+                    iim = iMacrosControl.Create("xxxx") // Use the license key for iMacros.Component
+                    iim.Dock = DockStyle.Fill;
+                    browserPane.Controls.Add(iim);
+                }
+            }
+            </code></example>
+    </member>
+    <member name="E:iMacros.Component.iMacrosControl.MacroErrorOccurred">
+      <summary>
+            Fired when a macro error occurs in the <see cref="M:iMacros.Component.iMacrosControl.Play(System.String)" /> method. The properties <see cref="P:iMacros.Component.iMacrosControl.ErrorCode" /> 
+            and <see cref="P:iMacros.Component.iMacrosControl.ErrorText" /> are updated with code and message of the error. This event is not 
+            fired if !ERRORIGNORE is set to NO.
+            </summary>
+    </member>
+    <member name="E:iMacros.Component.iMacrosControl.MasterPasswordRequested">
+      <summary>
+            Occurs when a macro requires a temporary master password to decrypt a password. 
+            Set the <see cref="P:iMacros.Component.EventHelpers.MasterPasswordEventArgs.MasterPassword" /> of <see cref="T:iMacros.Component.EventHelpers.MasterPasswordEventArgs" /> to the required  
+            master password in the event handler.
+            </summary>
+      <example>
+            The example below assumes a Form with a <see cref="T:System.Windows.Forms.Panel" /> where to add the iMacros control
+            and a play <see cref="T:System.Windows.Forms.Button" /> with a click event
+            <code>
+            using System;
+            using System.Windows.Forms;
+            using iMacros.Component;
+            
+            public partial class MainForm : Form
+            {
+                private iMacrosControl iim;
+                
+                public MainForm()
+                {
+                    InitializeComponent();
+                    iim = iMacrosControl.Create("xxxx") // Use here the license key for iMacros.Component
+                    iim.Dock = DockStyle.Fill;
+                    browserPane.Controls.Add(iim);
+                }     
+                
+                private void play_Click(object sender, EventArgs e)
+                {
+                    if (iim == null) 
+                        return;
+                    
+                    // Take care that the player is in idle mode before starting to play a macro
+                    if (iim.PlayerMode != PlaybackModes.Idle) 
+                        return;        
+            
+                    // Subscribe to events which are fired during playback
+                    iim.MasterPasswordRequested += iim_MasterPasswordRequested;
+                    
+                    string macro = "CODE:URL GOTO=http://demo.imacros.net/Automate/TestForm1" + Environment.NewLine;
+                    macro += "SET !ENCRYPTION TMPKEY" + Environment.NewLine;
+                    macro += "TAG POS=1 TYPE=INPUT:PASSWORD FORM=NAME:TestForm ATTR=NAME:Reg_code CONTENT=c/kdPpFFOBu3YTDs2AsJxpJCYrdIT3/RAJV4iiw1jzfar2tspVM8AQ/GFGJ4l8tqlm5+z0FcDwIVptA09Y+jZQ==";
+                    int res = iim.Play(macro);
+                    
+                    // Detach the player events
+                    iim.MasterPasswordRequested -= iim_MasterPasswordRequested;
+                    
+                    if (res == 0) // res == 0 means that the player was in playing mode when Play was called. 
+                        MessageBox.Show("Player is still playing");
+                        
+                    MessageBox.Show(String.Format("Play result is {0}", iim.ErrorText);
+                }
+                
+                private void iim_MasterPasswordRequested(object sender, MasterPasswordEventArgs e)
+                {
+                    // Handle the MasterPasswordRequested event, when iMacros needs a TEMPKEY do decrypt a temporary password
+                    // Set the master password 
+                    e.MasterPassword = "theTmpPwd";
+                }
+            }
+            </code></example>
+    </member>
+    <member name="E:iMacros.Component.iMacrosControl.BrowserStatusUpdated">
+      <summary>
+            Occurs when the active browser control (selected browser tab) status (property <see cref="P:iMacros.Component.iMacrosControl.BrowserStatus" />) is updated. 
+            </summary>
+    </member>
+    <member name="E:iMacros.Component.iMacrosControl.PlayerStatusUpdated">
+      <summary>
+            Occurs when the player status (property <see cref="P:iMacros.Component.iMacrosControl.PlayerStatus" />) is updated. It includes messages about which command is 
+            being played and errors which might have occurred during playback also if !ERRORIGNORE is set to to NO.
+            </summary>
+    </member>
+    <member name="E:iMacros.Component.iMacrosControl.BrowserResize">
+      <summary>
+            Occurs when the browser needs to be resized during playback. This can happen due to a SIZE or any kind of screenshot command
+            in the macro, like SAVEAS or IMAGESEARCH. The Size property of <see cref="T:iMacros.Component.EventHelpers.BrowserResizeEventArgs" /> contains 
+            the required size that iMacrosControl should be set.
+            </summary>
+      <example>
+            The example below assumes a Form with a <see cref="T:System.Windows.Forms.Panel" /> where to add the iMacros control
+            and a play <see cref="T:System.Windows.Forms.Button" /> with a click event
+            <code>
+            using System;
+            using System.Windows.Forms;
+            using iMacros.Component;
+            
+            public partial class MainForm : Form
+            {
+                private iMacrosControl iim;
+                
+                public MainForm()
+                {
+                    InitializeComponent();
+                    iim = iMacrosControl.Create("xxxx") // Use here the license key for iMacros.Component
+                    iim.Dock = DockStyle.Fill;
+                    browserPane.Controls.Add(iim);
+                }
+                
+                private void play_Click(object sender, EventArgs e)
+                {
+                    if (iim == null) 
+                        return;
+                    
+                    // Take care that the player is in idle mode before starting to play a macro
+                    if (iim.PlayerMode != PlaybackModes.Idle) 
+                        return;        
+            
+                    // Subscribe to events which are fired during playback
+                    iim.BrowserResize += iim_BrowserResize;
+                    
+                    string macro = "CODE:URL GOTO=http://forum.imacros.net/" + Environment.NewLine;
+                    macro += "SAVEAS TYPE=PNG FOLDER=* FILE=forum.png";
+                    int res = iim.Play(macro);
+                    
+                    // Detach the player events
+                    iim.BrowserResize -= iim_BrowserResize;
+                    
+                    if (res == 0) // res == 0 means that the player was in playing mode when Play was called. 
+                        MessageBox.Show("Player is still playing");
+                        
+                    MessageBox.Show(String.Format("Play result is {0}", iim.ErrorText);
+                }
+                
+                private void iim_BrowserResize(object sender, BrowserResizeEventArgs e)
+                {
+                    // Handle the BrowserResize event when iMacros Player requests the 
+                    // browser to be resized (due to a SIZE command, for instance)
+                    
+                    // Get the the current size of iMacros control 
+                    var oldSize = iim.Size;
+                    
+                    // Check if it needs to be adjusted
+                    if (oldsize != e.Size)
+                    {
+                        // Resize the form
+                        Width += e.Size.Width - oldSize.Width;
+                        Height += e.Size.Height - oldSize.Height;
+                    }
+                    
+                    // Let the form resize
+                    Application.DoEvents(); 
+                }
+            }
+            </code></example>
+    </member>
+    <member name="E:iMacros.Component.iMacrosControl.PlayerModeChanged">
+      <summary>
+            Occurs when the playback mode (<see cref="F:iMacros.Component.PlaybackModes.Idle" />, <see cref="F:iMacros.Component.PlaybackModes.Playing" />, 
+            <see cref="F:iMacros.Component.PlaybackModes.Paused" />) has been changed. The property <see cref="P:iMacros.Component.iMacrosControl.PlayerMode" /> is updated with the 
+            current playback mode.
+            </summary>
+    </member>
+    <member name="E:iMacros.Component.iMacrosControl.TopMostRequired">
+      <summary>
+            Fired when the form containing the control needs to set its <see langword="TopMost" /> property during playback. 
+            This can happen due to a screenshot command, IMAGESEARCH, or DS.
+            </summary>
+    </member>
+    <member name="E:iMacros.Component.iMacrosControl.FileDownload">
+      <summary>
+            Fired when file download has been either started (<see cref="F:iMacros.Component.DownloadStatus.Starting" />), was updated (<see cref="F:iMacros.Component.DownloadStatus.InProgress" />),
+            or is complete (<see cref="F:iMacros.Component.DownloadStatus.Completed" />). If the download is in progress this event is fired several times to notify the caller that
+            the number of downloaded bytes has changed. As downloads may happen concurrently, this event fires with state <see cref="F:iMacros.Component.DownloadStatus.InProgress" /> 
+            also when a new file starts downloading before the former download job is complete. In this case, the DownloadSize property of
+            <see cref="T:iMacros.Component.EventHelpers.FileDownloadEventArgs" /> is updated to reflect the new total size.
+            </summary>
+    </member>
+    <member name="E:iMacros.Component.iMacrosControl.Prompt">
+      <summary>
+            Fired when macro playback requires that a message be shown to the user, or needs some user input, due to a PROMPT command in the macro.
+            Set <see cref="P:iMacros.Component.EventHelpers.PromptEventArgs.Handled" /> to true after populating <see cref="P:iMacros.Component.EventHelpers.PromptEventArgs.Value" /> with the user input.
+            Use a modal dialog to communicate with the user, like a <see cref="T:System.Windows.Forms.MessageBox" />, or use the <see cref="M:System.Windows.Forms.Form.ShowDialog" />
+            of the <see cref="T:System.Windows.Forms.Form" /> class. This way macro playback will not proceed before the user has had time to see or to provide his input.        
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.iMacrosControl.PerformanceData">
+      <summary>
+            Gets the performance data stored by the STOPWATCH command as a Dictionary. 
+            The keys are of type <see langword="string" /> with the stopwatch labels (or ids) and the values are 
+            the elapsed times <see cref="T:System.TimeSpan" /> for each. 
+            The key value pairs are ordered according to their occurrence
+            in the macro. The first one is the total runtime with key <c>"[MacroTotalRuntime]"</c>.
+            </summary>
+      <remarks>If a stopwatch timer with label or id <c>"[MacroTotalRuntime]"</c> was added to the performance data during playback, 
+            the first key value pair will have the total runtime as value, but the key will be a string in the format
+            <c>"[MacroTotalRuntime]_mmm"</c>, where <c>mmm</c> is the milliseconds part of the total elapsed time.</remarks>
+    </member>
+    <member name="P:iMacros.Component.iMacrosControl.ExtractedValues">
+      <summary>
+            Gets the extracted values by the player as a list in the order that they were extracted.
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.iMacrosControl.ErrorCode">
+      <summary>
+            Gets the <see langword="int" /> code of the last error occurred in the iMacros player. See the iMacros documentation
+            <see href="http://wiki.imacros.net/Error_and_Return_Codes#Macro_Playback" /> for 
+            a list of error codes.
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.iMacrosControl.ErrorText">
+      <summary>
+            Gets the text of the last error occurred in the iMacros player.
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.iMacrosControl.BrowserStatus">
+      <summary>
+            Gets the browser status of the selected browser tab. The event <see cref="E:iMacros.Component.iMacrosControl.BrowserStatusUpdated" /> is fired every 
+            time this property is updated.
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.iMacrosControl.PlayerStatus">
+      <summary>
+            Gets or sets the player status. It includes messages about which command is being played
+            and errors which might have occurred during playback, also if !ERRORIGNORE is set to to NO.
+            The event <see cref="E:iMacros.Component.iMacrosControl.PlayerStatusUpdated" /> is fired every time this property is updated.
+            </summary>
+    </member>
+    <member name="P:iMacros.Component.iMacrosControl.PlayerMode">
+      <summary>
+            Gets or sets the current playback mode as one of the <see cref="T:iMacros.Component.PlaybackModes" /> Idle, Playing, Paused). 
+            The event <see cref="E:iMacros.Component.iMacrosControl.PlayerModeChanged" /> is fired
+            always when the this property is updated.
+            </summary>
+    </member>
+    <member name="M:iMacros.Component.iMacrosControl.Dispose(System.Boolean)">
+      <summary>
+            Clean up any resources being used.
+            </summary>
+      <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+    </member>
+    <member name="M:iMacros.Component.iMacrosControl.Create(System.String)">
+      <summary>
+            Creates an iMacrosControl object which can be added to a <see cref="T:System.Windows.Forms.Form" /> to play iMacros macros.
+            </summary>
+      <param name="licenseKey">A string containing the license key for the iMacros component</param>
+      <exception cref="T:System.ComponentModel.LicenseException"> Thrown when <paramref name="licenseKey" /> does not match the 
+            required license key for this component.</exception>
+      <returns>A reference to an iMacrosControl object</returns>
+      <example>
+            The example below assumes a Form with a <see cref="T:System.Windows.Forms.Panel" /> where to add the iMacros control
+            <code>
+            using System;
+            using System.Windows.Forms;
+            using iMacros.Component;
+            
+            public partial class MainForm : Form
+            {
+                private iMacrosControl iim;
+                
+                public MainForm()
+                {
+                    InitializeComponent();
+                    try
+                    {   
+                        iim = iMacrosControl.Create("xxxx") // Use the license key for iMacros.Component
+                        iim.Dock = DockStyle.Fill;
+                        browserPane.Controls.Add(iim);
+                    }
+                    catch (Exception ex)
+                    {
+                        // Create() throws LicenseException, if the license key is not correct
+                         MessageBox.Show(String.Format("Message: {0}", ex.Message));
+                    }
+                }
+            }
+            </code></example>
+    </member>
+    <member name="M:iMacros.Component.iMacrosControl.GetPerformanceData(System.Int32,System.String@,System.TimeSpan@)">
+      <summary>
+            Gets the performance data stored by the player by STOPWATCH commands.
+            </summary>
+      <param name="index">The index to the desired pair label (or id) and stopwatch timer. A value of 0 refers to the total runtime, 
+            with label <c>"[MacroTotalRuntime]"</c></param>
+      <param name="label">(<see langword="out" />) A string to store the label (or id).</param>
+      <param name="elapsedTime">(<see langword="out" />) The <see cref="T:System.TimeSpan" /> which will contain the elapsed time.</param>
+      <remarks>If a stopwatch timer with label or id <c>"[MacroTotalRuntime]"</c> was added to the performance data during playback, 
+            <c>index = 0</c> will give the total runtime, but the label will be a string in the format
+            <c>"[MacroTotalRuntime]_mmm"</c>, where <c>mmm</c> is the milliseconds part of the total elapsed time.</remarks>
+    </member>
+    <member name="M:iMacros.Component.iMacrosControl.Play(System.String)">
+      <summary>
+            Plays the specified macro code or path.
+            </summary>
+      <param name="macroCodeOrPath">The macro code (starting with the keyword <c>"CODE:"</c>) or a full path 
+            to a file containing the macro.
+            If <see cref="M:System.IO.Path.IsPathRooted(System.String)" /> returns false, iMacros will look for the file in the iMacros macros folder.
+            The iMacros directories location can be set in the <c>HKEY_CURRENT_USER\Software\Ipswitch\iMacros</c> registry key.
+            See the iMacros reference for the detailed values.</param>
+      <returns>An <see langword="int" /> error code. A -99 return value means that the player is busy, either playing or paused.</returns>
+      <remarks>The caller should check this instance's current <see cref="P:iMacros.Component.iMacrosControl.PlayerMode" /> before calling this method. In case the
+            player is not in Idle mode, <see cref="M:iMacros.Component.iMacrosControl.Play(System.String)" /> returns -99.</remarks>
+      <example>
+            The example below assumes a Form with a <see cref="T:System.Windows.Forms.Panel" /> where to add the iMacros control
+            and a play <see cref="T:System.Windows.Forms.Button" /> with a click event
+            <code>
+            using System;
+            using System.Windows.Forms;
+            using iMacros.Component;
+            
+            public partial class MainForm : Form
+            {
+                private iMacrosControl iim;
+                
+                public MainForm()
+                {
+                    InitializeComponent();
+                    iim = iMacrosControl.Create("xxxx") // Use here the license key for iMacros.Component
+                    iim.Dock = DockStyle.Fill;
+                    browserPane.Controls.Add(iim);
+                }
+                private void play_Click(object sender, EventArgs e)
+                {
+                    if (iim == null) 
+                        return;
+                    
+                    // Take care that the player is in idle mode before starting to play a macro
+                    if (iim.PlayerMode != PlaybackModes.Idle) 
+                        return;        
+            
+                    string macro = "CODE:URL GOTO=http://www.imacros.net/ \nTAG POS=3 TYPE=A ATTR=CLASS:toplink";
+                    int res = iim.Play(macro);
+                    
+                    if (res == -99) // res == -99 means that the player was in playing mode when Play was called. 
+                        MessageBox.Show("Player is still playing");
+                        
+                    MessageBox.Show(String.Format("Play result is {0}", iim.ErrorText);
+                }
+            }
+            </code></example>
+      <seealso cref="M:iMacros.Component.iMacrosControl.Stop" />
+      <seealso cref="M:iMacros.Component.iMacrosControl.PauseOrContinue" />
+    </member>
+    <member name="M:iMacros.Component.iMacrosControl.Stop">
+      <summary>
+            Stops this instance's player.
+            </summary>
+      <seealso cref="M:iMacros.Component.iMacrosControl.Play(System.String)" />
+      <seealso cref="M:iMacros.Component.iMacrosControl.PauseOrContinue" />"/&gt;
+        </member>
+    <member name="M:iMacros.Component.iMacrosControl.PauseOrContinue">
+      <summary>
+            Pauses the player if it is in <see cref="F:iMacros.Component.PlaybackModes.Playing" /> mode or resumes playback if <see cref="F:iMacros.Component.PlaybackModes.Paused" />. 
+            See <see cref="P:iMacros.Component.iMacrosControl.PlayerMode" />.
+            </summary>
+      <seealso cref="M:iMacros.Component.iMacrosControl.Play(System.String)" />
+      <seealso cref="M:iMacros.Component.iMacrosControl.Stop" />
+    </member>
+    <member name="M:iMacros.Component.iMacrosControl.SetVariable(System.String,System.String)">
+      <summary>
+            Sets a built-in (!VARn) or user-defined variable to be used in the next <see cref="M:iMacros.Component.iMacrosControl.Play(System.String)" /> call.
+            </summary>
+      <param name="varName">The variable name, e.g. "!VAR5", or "myLoop"</param>
+      <param name="varValue">The variable value</param>
+    </member>
+    <member name="T:iMacros.Component.NamespaceDoc">
+      <summary>
+            The <see cref="N:iMacros.Component" /> namespace contains the <see cref="T:iMacros.Component.iMacrosControl" /> for creating applications that take full 
+            advantage of the features available in the iMacros Browser (<see href="http://www.imacros.net/" />). 
+            The <see cref="T:iMacros.Component.iMacrosControl" /> provides a tabbed web browser 
+            (as in the iMacros Browser) and exposes methods which give access to iMacros player full capabilities. 
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.PlaybackModes">
+      <summary>
+            Specifies the state of the iMacros player
+            </summary>
+    </member>
+    <member name="F:iMacros.Component.PlaybackModes.Idle">
+      <summary>
+            The player has stopped or not has not yet been started
+            </summary>
+    </member>
+    <member name="F:iMacros.Component.PlaybackModes.Playing">
+      <summary>
+            The player is currently playing
+            </summary>
+    </member>
+    <member name="F:iMacros.Component.PlaybackModes.Paused">
+      <summary>
+            The player has been paused
+            </summary>
+    </member>
+    <member name="T:iMacros.Component.DownloadStatus">
+      <summary>
+            Specifies the current file download state.
+            </summary>
+    </member>
+    <member name="F:iMacros.Component.DownloadStatus.None">
+      <summary>
+            No file download has been scheduled.
+            </summary>
+    </member>
+    <member name="F:iMacros.Component.DownloadStatus.Starting">
+      <summary>
+            The first file download is starting.
+            </summary>
+    </member>
+    <member name="F:iMacros.Component.DownloadStatus.InProgress">
+      <summary>
+            File download is in progress.
+            </summary>
+    </member>
+    <member name="F:iMacros.Component.DownloadStatus.Completed">
+      <summary>
+            All file downloads are complete.
+            </summary>
+    </member>
+  </members>
+</doc>
