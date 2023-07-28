@@ -1,0 +1,220 @@
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\bin\Debug\AMD.exe.config
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\bin\Debug\AMD.exe
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\bin\Debug\AMD.pdb
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Acesso.resources
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Properties.Resources.resources
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.exe
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.pdb
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_usuario.resources
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Desligar_computador.FRMDeligar_Reiniciar.resources
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_computador.resources
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Problema.FRMProblema_pc.resources
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_comun.resources
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_admin.resources
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Termo.FRMTermo.resources
+C:\Users\Eduardo\Dropbox\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Consultar_acesso.FRMConsultar_acesso.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\bin\Debug\AMD.exe.config
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.exe
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.pdb
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\bin\Debug\AMD.exe
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\bin\Debug\AMD.pdb
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Acesso.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_computador.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_usuario.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Consultar_acesso.FRMConsultar_acesso.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_admin.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_comun.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Problema.FRMProblema_pc.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Properties.Resources.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Termo.FRMTermo.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.csproj.ResolveComReference.cache
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Ajuda.Ajuda_acesso.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Debug\AMD.Desligar_computador.FRMDesligar_Reiniciar.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\bin\Debug\AMD.exe.config
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.csproj.ResolveComReference.cache
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.exe
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.pdb
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\bin\Debug\AMD.exe
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\bin\Debug\AMD.pdb
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Acesso.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Ajuda.Ajuda_acesso.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_computador.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_usuario.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Consultar_acesso.FRMConsultar_acesso.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_admin.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_comun.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Desligar_computador.FRMDesligar_Reiniciar.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Problema.FRMProblema_pc.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.Termo.FRMTermo.resources
+C:\Users\Eduardo\Desktop\Software\AMD\AMD\obj\Debug\AMD.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\AMD.exe.config
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.csproj.ResolveComReference.cache
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.exe
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.pdb
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\AMD.exe
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\AMD.pdb
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Acesso.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Ajuda.Ajuda_acesso.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_computador.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_usuario.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Consultar_acesso.FRMConsultar_acesso.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_admin.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_comun.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Desligar_computador.FRMDesligar_Reiniciar.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Problema.FRMProblema_pc.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Properties.Resources.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Termo.FRMTermo.resources
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Alterar_senha.AlterarSenha.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\bin\Debug\AMD.exe.config
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.csproj.ResolveComReference.cache
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.exe
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.pdb
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\bin\Debug\AMD.exe
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\bin\Debug\AMD.pdb
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Acesso.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Ajuda.Ajuda_acesso.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Alterar_senha.AlterarSenha.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_computador.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_usuario.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Consultar_acesso.FRMConsultar_acesso.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_admin.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_comun.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Desligar_computador.FRMDesligar_Reiniciar.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Problema.FRMProblema_pc.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Properties.Resources.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Termo.FRMTermo.resources
+C:\Users\Eduardo\Desktop\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Actors.Sobre.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\AMD.exe.config
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\Interop.WMPLib.dll
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.csproj.ResolveComReference.cache
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.exe
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.pdb
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\AMD.exe
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\AMD.pdb
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\Interop.WMPLib.dll
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Acesso.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Actors.Sobre.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Ajuda.Ajuda_acesso.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Alterar_senha.AlterarSenha.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_computador.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_usuario.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Consultar_acesso.FRMConsultar_acesso.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_admin.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_comun.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Desligar_computador.FRMDesligar_Reiniciar.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Problema.FRMProblema_pc.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Properties.Resources.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.Termo.FRMTermo.resources
+C:\Users\eduar\Google Drive\TI\Projetos\Access Management Delta\Software\AMD\AMD\obj\Debug\AMD.csproj.GenerateResource.Cache
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\bin\Debug\AMD.exe.config
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\Interop.WMPLib.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.csproj.ResolveComReference.cache
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.exe
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.pdb
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\bin\Debug\AMD.exe
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\bin\Debug\AMD.pdb
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\bin\Debug\Interop.WMPLib.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.csprojResolveAssemblyReference.cache
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Acesso.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Actors.Sobre.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Ajuda.Ajuda_acesso.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Alterar_senha.AlterarSenha.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_computador.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_usuario.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Consultar_acesso.FRMConsultar_acesso.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_admin.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_comun.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Desligar_computador.FRMDesligar_Reiniciar.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Problema.FRMProblema_pc.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Properties.Resources.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Termo.FRMTermo.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.csproj.GenerateResource.Cache
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-3.7.0\Software\AMD\AMD\obj\Debug\AMD.Alterar_senha.Fundo.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\AMD.exe.config
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\Interop.WMPLib.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.csproj.ResolveComReference.cache
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.exe
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.pdb
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\AMD.exe
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\AMD.pdb
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\Interop.WMPLib.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.csprojResolveAssemblyReference.cache
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Acesso.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Actors.Sobre.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Ajuda.Ajuda_acesso.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Alterar_senha.AlterarSenha.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Alterar_senha.Fundo.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_computador.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_usuario.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Consultar_acesso.FRMConsultar_acesso.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_admin.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_comun.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Desligar_computador.FRMDesligar_Reiniciar.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Problema.FRMProblema_pc.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Properties.Resources.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Termo.FRMTermo.resources
+C:\Users\eduar\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.csproj.GenerateResource.Cache
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\AMD.exe.config
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.csproj.ResolveComReference.cache
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.exe
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.pdb
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\AMD.exe
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\AMD.pdb
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Acesso.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Actors.Sobre.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Ajuda.Ajuda_acesso.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Alterar_senha.AlterarSenha.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Alterar_senha.Fundo.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_computador.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Cadastro.FRMCadastro_usuario.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Consultar_acesso.FRMConsultar_acesso.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_admin.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Desktop_AMD.FRMdesktop_AMD_user_comun.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Desligar_computador.FRMDesligar_Reiniciar.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Problema.FRMProblema_pc.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Properties.Resources.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.Termo.FRMTermo.resources
+C:\Users\Eduardo\MEGA\Projetos\Access Management Delta\Software-4.0\Software\AMD\AMD\obj\Debug\AMD.csproj.GenerateResource.Cache

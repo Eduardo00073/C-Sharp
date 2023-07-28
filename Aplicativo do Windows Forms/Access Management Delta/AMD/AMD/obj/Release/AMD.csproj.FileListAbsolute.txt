@@ -1,0 +1,12 @@
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\bin\Release\AMD.exe.config
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.Acesso.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.Cadastro.FRMCadastro_computador.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.Cadastro.FRMCadastro_usuario.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.Consultar_acesso.FRMConsultar_acesso.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.Desktop_AMD.FRMdesktop_AMD_user_admin.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.Desktop_AMD.FRMdesktop_AMD_user_comun.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.Desligar_computador.FRMDeligar_Reiniciar.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.Problema.FRMProblema_pc.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.Properties.Resources.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.Termo.FRMTermo.resources
+C:\Users\Eduardo\Google Drive\TI\ETEC\TCC\Software\AMD\AMD\obj\Release\AMD.csproj.GenerateResource.Cache
